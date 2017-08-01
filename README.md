@@ -8,4 +8,4 @@ Confirm notification to slack
   edit README.md and git commit
   push branch:#1-readme by GitKraken
   ckeck pushing file:README.md to branch:#1-readme by github
-  make pullRequest branch:#1-readme to branch:master
+  make PullRequest branch:#1-readme to branch:master
